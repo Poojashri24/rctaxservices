@@ -329,7 +329,7 @@ export default function Home() {
                   </div>
                   <div className="text-xs">
                     <strong className="text-brand-700 font-semibold block">💡 Important Fact:</strong>
-                    <span className="text-gray-500 italic">"{srv.fact}"</span>
+                    <span className="text-gray-500 italic">&quot;{srv.fact}&quot;</span>
                   </div>
                 </div>
               </div>
@@ -415,7 +415,7 @@ export default function Home() {
           <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm space-y-4">
             <div className="flex text-amber-400">★★★★★</div>
             <p className="text-sm text-gray-600 italic">
-              "RC Services helped me get my FSSAI basic registration in just 3 days for my kitchen. The process was completely online. Very professional!"
+              &quot;RC Services helped me get my FSSAI basic registration in just 3 days for my kitchen. The process was completely online. Very professional!&quot;
             </p>
             <div>
               <h4 className="font-bold text-sm text-gray-900">Pooja Mishra</h4>
@@ -426,7 +426,7 @@ export default function Home() {
           <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm space-y-4">
             <div className="flex text-amber-400">★★★★★</div>
             <p className="text-sm text-gray-600 italic">
-              "They handle my monthly GST filings and accounting on Zoho. They remind me of due dates 4 days in advance, preventing late fee penalties."
+              &quot;They handle my monthly GST filings and accounting on Zoho. They remind me of due dates 4 days in advance, preventing late fee penalties.&quot;
             </p>
             <div>
               <h4 className="font-bold text-sm text-gray-900">Devendra Singh</h4>
@@ -437,7 +437,7 @@ export default function Home() {
           <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm space-y-4">
             <div className="flex text-amber-400">★★★★★</div>
             <p className="text-sm text-gray-600 italic">
-              "Filing ITR-4 used to be confusing for my freelance design work. They made it simple, calculated my presumptive tax deductions correctly, and filed it."
+              &quot;Filing ITR-4 used to be confusing for my freelance design work. They made it simple, calculated my presumptive tax deductions correctly, and filed it.&quot;
             </p>
             <div>
               <h4 className="font-bold text-sm text-gray-900">Vikram Sen</h4>
