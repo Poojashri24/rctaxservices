@@ -66,7 +66,7 @@ export default function About() {
             Having worked directly on numerous client books in accounting software (Tally ERP, Zoho Books, QuickBooks, Xero), preparing audit-ready schedules, resolving GSTR reconciliations, and filing Income Tax returns, we bridge the gap between expensive audit firms and local micro-businesses.
           </p>
           <p className="text-gray-600 text-sm leading-relaxed">
-            We focus on digital convenience, meaning you don't have to carry heavy files or visit offices. Simply share your documents securely via WhatsApp or our web portal, and we handle the heavy compliance lifting.
+            We focus on digital convenience, meaning you don&apos;t have to carry heavy files or visit offices. Simply share your documents securely via WhatsApp or our web portal, and we handle the heavy compliance lifting.
           </p>
           
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 pt-4">
